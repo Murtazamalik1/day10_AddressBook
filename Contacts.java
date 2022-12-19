@@ -1,6 +1,7 @@
-package com.day9.address;
+package day100;
 
 public class Contacts {
+
     private String firstName;
     private String lastName;
     private String address;
